@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>page1</title>
+</head>
+
+<body style="background-color:blue;">
+
+<p>
+<a href="hazzard.html">Link to red</a>
+</p>
+
+</body>
+</html>
